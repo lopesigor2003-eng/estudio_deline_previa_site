@@ -1,0 +1,8 @@
+{
+  "name": "Estúdio Delinê - Estética e Beleza",
+  "description": "Landing page de alta conversão para o Estúdio Delinê em Santa Maria - RS. Especialistas em alongamento de cílios, brow lamination, design de sobrancelhas e estética avançada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
